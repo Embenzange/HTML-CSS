@@ -1,0 +1,76 @@
+.text-1 {
+  font-family: Tahoma;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.deal {
+  font-family: Arial;
+  font-weight: bold;
+  font-size: 25px;
+  width:360px;
+  
+}
+
+.sales-info {
+  color: rgb(214, 79, 79);
+  font-size: 18px;
+  font-style: italic;
+  line-height: 30px;
+}
+
+.text-title {
+  font-family: Verdana;
+  font-weight: bold;
+  font-size: 18px;
+}
+
+.text-subtitle {
+  font-family: Verdana;
+  font-size: 16px;
+  color: grey;
+  line-height: 0;
+}
+
+.description {
+  font-family: Verdana;
+  font-size: 14px;
+  width: 250px;
+  margin-top: 30px;
+}
+
+.start-button {
+  background-color: rgb(35, 148, 35);
+  font-family: Verdana;
+  font-size: 14px;
+  font-weight: bold;
+  color: white;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 18px;
+  padding-right: 18px;
+  border: none;
+  border-radius: 8px;
+}
+
+.text-question {
+  font-family: Arial;
+  font-size: 22px;
+  font-weight: bold;
+}
+
+.text-answer {
+  font-family: Arial;
+  font-size: 14px;
+  font-weight: b;
+  text-align: center;
+  width: 250px;
+}
+
+.text-link {
+  font-family: Arial;
+  font-size: 14px;
+  color: blue;
+  text-align: center;
+  width: 250px;
+}

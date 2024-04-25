@@ -1,0 +1,30 @@
+.thumbnail {
+  border-radius: 800px;
+  width: 80px;
+  vertical-align: middle;
+  
+}
+.search-bar {
+  vertical-align: middle;
+  font-size: 15px;
+  border: none;
+  border-radius: 0;
+}
+
+.tweet-button{
+  vertical-align: middle;
+  border: none;
+  background-color: rgb(112, 177, 238);
+  color: white;
+  font-family: Arial;
+  padding-left: 25px;
+  padding-right: 25px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  border-radius: 25px;
+}
+
+.twitter-div{
+  box-shadow: 2px 2px 5px 1px rgb(155, 154, 154);
+  width: 500px;
+}
